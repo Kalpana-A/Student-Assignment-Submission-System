@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Math Assignment",
+    "dueDate": "2025-03-10",
+    "description": "Solve 10 algebra problems."
+  },
+  {
+    "id": 2,
+    "title": "Science Report",
+    "dueDate": "2025-03-12",
+    "description": "Write a report on the water cycle."
+  }
+]
